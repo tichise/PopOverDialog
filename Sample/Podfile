@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+target 'Sample' do
+  platform :ios, '11.0'
+  use_frameworks!
+
+  pod 'PopOverDialog', :path => '../'
+
+  target 'SampleTests' do
+    inherit! :search_paths
+  end
+end
