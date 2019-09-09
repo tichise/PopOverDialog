@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = 'PopOverDialog'
-  s.version = '1.0.0'
+  s.version = '1.0.1'
   s.license = 'MIT'
   s.summary = 'PopOverDialog is a PopOver style dialog view.'
   s.homepage = 'https://github.com/tichise/PopOverDialog'
