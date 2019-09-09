@@ -1,4 +1,4 @@
-### PopOverDialog
+### PopOverDialog ![CocoaPods Version](https://img.shields.io/cocoapods/v/PopOverDialog.svg?style=flat) ![Platform](https://img.shields.io/cocoapods/p/PopOverDialog.svg?style=flat) ![License](https://img.shields.io/cocoapods/l/PopOverDialog.svg?style=flat)
 
 PopOverDialog is a PopOver style dialog view.
 
